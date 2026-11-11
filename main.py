@@ -81,7 +81,7 @@ class Graph:
 
 if __name__ == "__main__":
     print("=== ASSESSMENT 3.3: NON-LINEAR DATA STRUCTURE (PYTHON) ===")
-    print("Name: Rosalita, Roshelle Mea C. | BSIT-2C | CC104\n")
+    print("Name: Rosalita, Roshelle Mea C. | BSIT-2C | CC204\n")
 
     # --- BINARY TREE SETUP ---
     root = TreeNode('R')
